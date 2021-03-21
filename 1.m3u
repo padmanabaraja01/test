@@ -1,0 +1,138 @@
+#EXTM3U 
+#EXTINF:0 group-title="Tamil Entertainment" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
+#EXTINF:0, group-title="Tamil News" tvg-logo="https://i.imgur.com/uFiHtQX.png",Malaimurasu
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+
+#EXTINF:0, group-title="Tamil Entertainment" tvg-logo="https://i.imgur.com/XMAqb0H.png",Peppers TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://live.wmncdn.net/peppers/live.stream/index.m3u8
+
+#EXTINF:0, group-title="Tamil News" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:0 group-title="Tamil Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
+
+#EXTINF:0 group-title="Tamil Entertainment" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg", VENDHAR TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/FigDbPo.png" group-title="Tamil Entertainment;Local",SD Media
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil Entertainment",Kalaignar TV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="Tamil News",Thanthi TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+
+#EXTINF:0 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="Tamil Entertainment",Raj TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+
+#EXTINF:0, group-title="Tamil Entertainment" tvg-logo="http://www.vanaviltv.in/images/PLUS1_001_00299.png",Vanavil Plus TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="Tamil Entertainment",VANAVIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:0, group-title="Tamil Entertainment" tvg-logo="http://www.aasaitvlive.in/img/aasai_tv.png",AASAI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+
+#EXTINF:0, group-title="Tamil Entertainment" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="Tamil Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",MK Six
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:0 group-title="Tamil Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",MK Tunes
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:0 group-title="Tamil Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",MK TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+#EXTINF:0 group-title="Tamil Entertainment" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil Entertainment",Rasi TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Entertainment",Rasi Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Entertainment",Rasi Classic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+
+#EXTINF:0, group-title="Tamil Entertainment" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:0 group-title="Tamil Entertainment" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png", ADHAVAN HD TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
