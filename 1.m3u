@@ -59,11 +59,6 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 
-#EXTINF:0, group-title="Tamil Entertainment" tvg-logo="http://www.vanaviltv.in/images/PLUS1_001_00299.png",Vanavil Plus TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="Tamil Entertainment",VANAVIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -175,19 +170,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:0 channel-id="7755" radio="false" tvg-id="Hallmark - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/H/Hallmark_Channel.png" tvg-chno="143" tvg-country="US" group-title="English",HALLMARK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561?checkedby:hlscat.com
 
-#EXTINF:0 channel-id="7778" radio="false" tvg-id="HBO HD - Eastern Feed" tvg-chno="166" tvg-country="GB" group-title="English",HBO - Buffer
-http://136.243.177.164/HBO/playlist.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 channel-id="7834" radio="false" tvg-id="Lifetime Network US - Eastern Feed" tvg-logo="https://raw.githubusercontent.com/bitsbb01/IPTV-Icons/master/L/Lifetime.png" tvg-chno="222" tvg-country="US" group-title="English",Lifetime HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567?checkedby:hlscat.com
-
-
 #EXTINF:-1 channel-id="7845" radio="false" tvg-id="Starz Encore Action - Eastern" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" tvg-chno="233" group-title="English",MBC 2 FHD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 channel-id="7846" radio="false" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/01/mbc_ae_2_hd-1.png" tvg-chno="234" group-title="English",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 channel-id="7847" radio="false" tvg-id="Starz Encore Action - Eastern" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" tvg-chno="235" group-title="English",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="English",TVCINE ACTION HD LEG
-http://top.hatv.me:2095/dtv_665917/eXhXESnq/31024
